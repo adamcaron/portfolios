@@ -126,6 +126,18 @@ https://github.com/turingschool/ruby-submissions/blob/master/1505/05_traffic_spy
  - Attended Field Day (and had a great time playing vollyball, ultimate frisbee, soccer etc. and just hanging out and chatting with people)
  - Gave lightening talk on July 31st on **UX Design vs. Development & Implementation** on Friday, July 31st, 2015.
 
+### Feedback From Peers
+
+“He’s been welcoming since day one, and he’s always willing to sit down with me and work on something that I’m stuck on." - Jeff Ruane
+
+"Adam is a committed team member when on projects. As part of our Traffic Spy team, Adam was a constant contributor with a focus on understanding and quality. He contributed strong code and ideas to move the team forward. Adam is both respectful and enthusiastic when pairing which makes the experience better. I look forward to working  with Adam again in the future." - Mike Dorrance
+
+"Approaches everything with a positive attitude and really cares about doing things the right way" - anonymous peer feedback, end of Mod 1
+
+Mid Module Assessment for Module 2 (July 29th, 2015):
+"Adam is a strong Rails developer (or will be in 6 weeks at this rate). His process is great and his algorythmic thinking was spot on. During the assessment, Adam allowed the test to drive his workflow. He made assumptions but then validated those assumptions, learning along the way. With repetition, the speed at which he moves through the development process will increase. " - Josh Mejia
+
+
 ## Review
 
 ### Notes
