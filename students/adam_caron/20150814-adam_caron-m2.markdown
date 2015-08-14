@@ -119,6 +119,7 @@ https://github.com/turingschool/ruby-submissions/blob/master/1505/05_traffic_spy
 
 ### Playing a Part
 
+ - Facilitated 1507 Orientation with Lovisa Svalingson
  - Began open source project with Lovisa Svalingson and Adam Jenson: Rails application, called [https://github.com/adamcaron/tidy_up](Tidy Up), that allows Turing students who are assigned posse-cleanup duties to check off cleanup tasks from the list as they progress through the week.
  - Created a tutorial for my cohort that sumarized Authorization in Rails applications: [https://gist.github.com/adamcaron/ad7a8afd6948850b679d](Authorization for My Jams) ... shared this with cohort and received positive feedback.
  - Paired every week this module with mentor (Troy Denkinger)
